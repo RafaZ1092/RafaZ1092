@@ -1,5 +1,14 @@
-## Hi there 👋
+## Bem Vindos Ao Meu Perfil👋
+## Meu Nome e Rafael Zanata
 
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+00001092698954sp@al.educacao.sp.gov.br
 <!--
 **RafaZ1092/RafaZ1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
